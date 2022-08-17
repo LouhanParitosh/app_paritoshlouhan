@@ -1,3 +1,4 @@
-stage 'Checkout code'
 
-	git https://github.com/LouhanParitosh/nagp-assignment-jenkins.git
+stage 'build'
+
+bat "\"${tool 'MSBuild'}\" NAGP-ASSIGNMENT.sln /p:Configuration=DEBUG /p:Platform=\"Any CPU\" /p:ProductVersion=1.0.0"
