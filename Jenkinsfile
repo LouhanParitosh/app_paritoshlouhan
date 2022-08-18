@@ -17,7 +17,7 @@ pipeline {
           
           stage('Code Build') {
              steps {
-              bat "msbuild.exe NAGP-ASSIGNMENT.sln /nologo /nr:false  /p:platform=\"x64\" /p:configuration=\"release\" /t:clean;restore;rebuild"
+                   bat "\"${tool 'MSBuild'}\" NAGP-ASSIGNMENT.sln /p:Configuration=DEBUG /p:Platform=\"Any CPU\" /p:ProductVersion=1.0.0"
              }
            }
      }
