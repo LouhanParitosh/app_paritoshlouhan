@@ -1,7 +1,8 @@
 node {
   
  stage ('Clean workspace') {
-  steps {
-    cleanWs()
-  }
+    steps {
+      cleanWs()
+    }
+ }
 }
