@@ -9,10 +9,16 @@ pipeline {
            }
          }
              
-           stage('Restore packages') {
+           stage('Nuget Restore') {
               steps {
                 bat "dotnet restore NAGP-ASSIGNMENT.sln"
               }
+           }
+          
+          stage('Code Build') {
+             steps {
+              bat "msbuild.exe NAGP-ASSIGNMENT.sln /nologo /nr:false  /p:platform=\"x64\" /p:configuration=\"release\" /p:PackageCertificateKeyFile=<path-to-certificate-file>.pfx /t:clean;restore;rebuild"
+             }
            }
      }
 }
