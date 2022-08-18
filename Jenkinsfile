@@ -1,4 +1,5 @@
-node {
+pipeline {
+    agent any 1
   stages {
      stage ('Git Checkout') {
       steps {
@@ -8,4 +9,5 @@ node {
        }
      }
   }
+}
 }
