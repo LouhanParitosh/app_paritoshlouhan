@@ -31,6 +31,12 @@ pipeline {
              }
            }
         
+        stage('Test') {
+             steps {
+                   bat "dotnet test -l:trx;LogFileName=file.xml"
+             }
+           }
+        
          stage('Stop SonarQube Analysis') {
               steps {
                   withSonarQubeEnv('Sonar') {
