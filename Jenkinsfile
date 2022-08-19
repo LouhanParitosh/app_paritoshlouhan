@@ -1,9 +1,15 @@
 pipeline {
-    agent any 
-      stages {
-         
-             
-           stage('Nuget Restore') {
+    agent any
+    
+    environment {
+        scannerHome = tool name: 'sonarscanner'
+        username = 'admin'
+        appName = 'SampleApp'
+    }
+    
+   
+    stages {   
+          stage('Nuget Restore') {
               steps {
                 bat "dotnet restore NAGP-ASSIGNMENT.sln"
               }
