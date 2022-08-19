@@ -19,7 +19,7 @@ pipeline {
           stage('Start SonarQube Analysis') {
               steps {
                   withSonarQubeEnv('Sonar') {
-                      bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll begin /k:\"Test_Sonar\" /d:sonar.verbose=true "
+                      SonarScanner.MSBuild.exe begin /k:"Test_Sonar" /d:sonar.host.url="http://localhost:9000" /d:sonar.login="sqp_9214c7cb2b9ca70558833050b9cc1c303ca9f867"
                   }
               }
            }
