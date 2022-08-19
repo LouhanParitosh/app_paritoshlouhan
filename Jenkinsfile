@@ -37,13 +37,6 @@ pipeline {
                       bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
                   }
               }
-           }
-        
-        
-         stage('Release Artifacts') {
-              steps {
-                  bat "dotnet publish -c Release -o ${appName}/app/${userName}"
-              }
-           }
+         }
      }
 }
