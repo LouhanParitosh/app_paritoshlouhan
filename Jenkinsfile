@@ -18,7 +18,6 @@ pipeline {
         
           stage('Start SonarQube Analysis') {
               steps {
-               echo "starting sonarqube"
                   withSonarQubeEnv('Sonar') {
                       bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll begin /k:\"Test_Sonar\" /d:sonar.verbose=true -d:sonar.cs.xunit.reportsPath='file.xml'"
                   }
@@ -33,7 +32,6 @@ pipeline {
         
          stage('Stop SonarQube Analysis') {
               steps {
-               echo "stopping sonarqube"
                   withSonarQubeEnv('Sonar') {
                       bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
                   }
