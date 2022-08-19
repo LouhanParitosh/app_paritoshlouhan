@@ -11,13 +11,13 @@ pipeline {
              
            stage('Nuget Restore') {
               steps {
-                bat "dotnet restore HelloWorldCore.sln"
+                bat "dotnet restore NAGP-ASSIGNMENT.sln"
               }
            }
           
           stage('Code Build') {
              steps {
-                   bat "\"${tool 'MSBuild'}\" HelloWorldCore.sln /p:Configuration=DEBUG /p:Platform=\"Any CPU\" /p:ProductVersion=1.0.0"
+                   bat "\"${tool 'MSBuild'}\" NAGP-ASSIGNMENT.sln /p:Configuration=DEBUG /p:Platform=\"Any CPU\" /p:ProductVersion=1.0.0"
              }
            }
      }
