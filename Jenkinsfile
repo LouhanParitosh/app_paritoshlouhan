@@ -39,5 +39,12 @@ pipeline {
                   }
               }
            }
+        
+        
+         stage('Release Artifacts') {
+              steps {
+                  bat "dotnet publish -c Release -o ${appName}/app/${userName}"
+              }
+           }
      }
 }
