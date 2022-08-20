@@ -1,0 +1,28 @@
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.exe
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.deps.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfo.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.genruntimeconfig.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.exe
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.deps.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.dev.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.AssemblyReference.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfoInputs.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfo.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.CoreCompileInputs.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.genruntimeconfig.cache
