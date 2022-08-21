@@ -69,13 +69,6 @@ pipeline {
                 }
             }
         }
-		
-		stage('Kubernetes deployment') {
-			steps {
-				
-			}
-		}
-		
     }
     
 }
