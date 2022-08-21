@@ -68,14 +68,7 @@ pipeline {
                     bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
                 }
             }
-        }
-		
-		stage('Kubernetes deployment') {
-			steps {
-				
-			}
-		}
-		
+        }	
     }
     
 }
