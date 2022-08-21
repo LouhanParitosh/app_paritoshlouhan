@@ -1,8 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NAGP_Assignment;
 
-
-namespace NAGP_Assignment.Test
+namespace NAGP_ASSIGNMENT.TEST
 {
     [TestClass]
     public class UnitTest1

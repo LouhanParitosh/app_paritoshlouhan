@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lXjs4CaOoqT/xS/lTAapmT+L6aDy80uAOY0MYDgtlZ7enmtMtO+acG8QfyZQfI4B6I+FGZ3EXNly1gq9+uPf2Q==",
+  "dgSpecHash": "fvjL4rtAVjkm5uKbeCo87sg1Xh4siKHq4FG6pftwqiWz7GOzAe/qS0Xk1UMWvNAU+eNtEQr2WOYwQ2AdCoGJKA==",
   "success": true,
-  "projectFilePath": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-Assignment.Test\\NAGP-Assignment.Test.csproj",
+  "projectFilePath": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-ASSIGNMENT.TEST\\NAGP-ASSIGNMENT.TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paritoshlouhan\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\paritoshlouhan\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

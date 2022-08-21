@@ -1637,6 +1637,7 @@
       },
       "NAGP-ASSIGNMENT/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/NAGP-ASSIGNMENT.dll": {}
         },
@@ -5736,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-Assignment.Test\\NAGP-Assignment.Test.csproj",
-      "projectName": "NAGP-Assignment.Test",
-      "projectPath": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-Assignment.Test\\NAGP-Assignment.Test.csproj",
+      "projectUniqueName": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-ASSIGNMENT.TEST\\NAGP-ASSIGNMENT.TEST.csproj",
+      "projectName": "NAGP-ASSIGNMENT.TEST",
+      "projectPath": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-ASSIGNMENT.TEST\\NAGP-ASSIGNMENT.TEST.csproj",
       "packagesPath": "C:\\Users\\paritoshlouhan\\.nuget\\packages\\",
-      "outputPath": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-Assignment.Test\\obj\\",
+      "outputPath": "D:\\NAGP\\Assignment on Jenkins\\Solution\\nagp-assignment-jenkins\\NAGP-ASSIGNMENT.TEST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paritoshlouhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
