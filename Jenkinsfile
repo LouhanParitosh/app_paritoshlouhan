@@ -3,8 +3,6 @@ pipeline {
     
     environment {
 	scannerHome = tool name: 'sonar_scanner_dotnet'
-        username = 'admin'
-        appName = 'SampleApp'
     }
     
    
@@ -24,7 +22,7 @@ pipeline {
 			}              
 			steps {
 				withSonarQubeEnv('Sonar') {
-					 bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll begin /k:`Test_Sonar`"
+					 bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll begin /k:"Test_Sonar""
 					  
 				}
 			}
