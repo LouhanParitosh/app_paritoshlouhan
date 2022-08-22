@@ -31,6 +31,7 @@ pipeline {
 		stage('Code Build') {
 		 
 			steps {
+			    bat "kubectl get nodes"
 			    bat "dotnet build"
 			}
 	    }
