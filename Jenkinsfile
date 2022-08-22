@@ -79,14 +79,7 @@ pipeline {
 		    }
 		}
 	    
-		stage('Kubernetes deployment') {
-		 
-			steps {
-			    bat "kubectl get nodes"
-			    bat "kubectl apply -f deployment.yaml --validate=false"
-			    bat "kubectl get nodes"
-			}
-	        }
+		
 	    
 	    
 	
