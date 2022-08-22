@@ -34,7 +34,7 @@ pipeline {
 			    bat "kubectl get nodes"
 			    bat "dotnet build"
 			}
-	    }
+	        }
         
 		stage('Test Case Execution') {
 			when {
@@ -57,17 +57,29 @@ pipeline {
 		}
 
         
-        stage('Stop SonarQube Analysis') {
-            when {
-                branch 'master'
-            }
+		stage('Stop SonarQube Analysis') {
+		    when {
+			branch 'master'
+		    }
 
-            steps {
-                withSonarQubeEnv('Sonar') {
-                     bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
-                }
-            }
-        }	
+		    steps {
+			withSonarQubeEnv('Sonar') {
+			     bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
+			}
+		    }
+		}
+	    
+		stage('Kubernetes deployment') {
+		 
+			steps {
+			    bat "kubectl get nodes"
+			    bat "kubectl apply -f deployment.yaml"
+			    bat "kubectl get nodes"
+			}
+	        }
+	    
+	    
+	
     }
     
 }
