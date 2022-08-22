@@ -18,3 +18,6 @@ spec:
      containers:
      - name: nginx-k8s-container
        image: paritoshlouhan/test2:jhooq-docker-demo
+       # Just sleep forever
+       command: [ "sleep" ]
+       args: [ "infinity" ]
