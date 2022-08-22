@@ -200,3 +200,8 @@ D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.T
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.dll
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.pdb
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.genruntimeconfig.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll.config
