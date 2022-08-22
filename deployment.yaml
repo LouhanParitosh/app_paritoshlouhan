@@ -17,4 +17,4 @@ spec:
    spec:
      containers:
      - name: nginx-k8s-container
-       image: paritoshlouhan/i-paritoshlouhan-master:latest
+       image: paritoshlouhan/i-paritoshlouhan-master:i-paritoshlouhan-master
