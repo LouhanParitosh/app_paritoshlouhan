@@ -2,7 +2,6 @@ pipeline {
     agent any
     
     environment {
-        scannerHome = tool name: 'sonarscanner'
         username = 'admin'
         appName = 'SampleApp'
     }
@@ -65,7 +64,7 @@ pipeline {
 
             steps {
                 withSonarQubeEnv('Sonar') {
-                    bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
+                    bat "dotnet D:\\sonar-scanner-msbuild-5.7.2.50892-net5.0\\SonarScanner.MSBuild.dll end"
                 }
             }
         }	
