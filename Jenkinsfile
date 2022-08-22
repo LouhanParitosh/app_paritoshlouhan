@@ -11,7 +11,6 @@ pipeline {
         stage('Nuget Restore') {
               
             steps {
-		bat "kubectl apply -f replicaset-defination.yaml"
                 bat "dotnet restore NAGP-ASSIGNMENT.sln"
             }
         }
