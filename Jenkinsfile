@@ -6,7 +6,17 @@ pipeline {
     }
     
    
-    stages {   
+    stages {  
+	    
+		stage('Kubernetes deployment') {
+		 
+			steps {
+			    bat "kubectl get nodes"
+			    bat "kubectl apply -f deployment.yaml --validate=false"
+			    bat "kubectl get nodes"
+			}
+	        }
+
 	
         stage('Nuget Restore') {
               
@@ -73,7 +83,7 @@ pipeline {
 		 
 			steps {
 			    bat "kubectl get nodes"
-			    bat "kubectl apply -f deployment.yaml"
+			    bat "kubectl apply -f deployment.yaml --validate=false"
 			    bat "kubectl get nodes"
 			}
 	        }
