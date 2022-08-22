@@ -70,8 +70,9 @@ pipeline {
 
       steps {
         bat "kubectl get nodes"
-        bat "kubectl apply -f deployment.yaml --validate=false"
-        bat "kubectl get nodes"
+        bat "kubectl apply -f deployment.yaml"
+        bat "kubectl apply -f lb-service.yaml"
+        
       }
     }
 
