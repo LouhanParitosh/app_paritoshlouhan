@@ -16,7 +16,7 @@ spec:
       containers:
         - name: nginx-container
           image: paritoshlouhan/i-paritoshlouhan-master
-  replicas: 4
-  selector:
+ replicas: 4
+ selector:
     matchLabels:
       app: my-k8s-app
