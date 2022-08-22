@@ -1,22 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nagp-assignment-deployment
-  labels:
-    app: k8-assignment
+ name: nginx-k8s-deployment
 spec:
-  strategy:
-    type: Recreate
-    template:
-      metadata:
-        name: myapp-pod
-        labels:
-          app: my-k8s-app
-      spec:
-        containers:
-          - name: nginx-container
-            image: paritoshlouhan/i-paritoshlouhan-master
-  replicas: 4
-  selector:
-    matchLabels:
-      app: my-k8s-app
+ strategy:
+  type: Recreate
+ replicas: 3
+ selector:
+   matchLabels:
+    app: nginx-k8s-deployment-app
+ template:
+   metadata:
+    name: nginx-k8s-pod
+    labels:
+     app: nginx-k8s-deployment-app
+   spec:
+     containers:
+     - name: nginx-k8s-container
+       image: paritoshlouhan/i-paritoshlouhan-master
