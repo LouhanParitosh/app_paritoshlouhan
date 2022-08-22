@@ -12,5 +12,5 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
 COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", ".\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll"]
+ENTRYPOINT ["dotnet", "./NAGP-ASSIGNMENT/bin/Debug/netcoreapp3.1/NAGP-ASSIGNMENT.dll"]
 
