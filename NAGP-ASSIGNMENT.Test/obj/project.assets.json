@@ -1643,7 +1643,10 @@
         },
         "runtime": {
           "bin/placeholder/NAGP-ASSIGNMENT.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },

@@ -99,13 +99,18 @@ C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT.TEST\obj\De
 C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.dll
 C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.pdb
 C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.genruntimeconfig.cache
-D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.deps.json
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.json
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.dev.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\App.config
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\appsettings.json
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.exe
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.deps.json
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.runtimeconfig.json
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.runtimeconfig.dev.json
@@ -191,6 +196,7 @@ D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.T
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll.config
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.csproj.AssemblyReference.cache
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.GeneratedMSBuildEditorConfig.editorconfig
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT.TEST\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TEST.AssemblyInfoInputs.cache

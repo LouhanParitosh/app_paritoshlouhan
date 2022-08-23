@@ -1,0 +1,51 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: nginx-k8s-deployment-paritoshlouhan
+ labels: 
+  app: dotnet-app
+spec:
+ strategy:
+  type: Recreate
+ replicas: 4
+ selector:
+   matchLabels:
+    app: dotnet-app
+ template:
+   metadata:
+    labels:
+     app: dotnet-app
+   spec:
+     containers:
+     - name: dotnet-app
+       image: paritoshlouhan/i-paritoshlouhan-develop:latest
+       imagePullPolicy: Always
+       ports:
+        - name: http
+          containerPort: 80
+        - name: https
+          containerPort: 443
+       env: 
+        - name: USER_NAME_KEY
+          valueFrom:
+            configMapKeyRef: 
+              name: k8s-config
+              key: user.name
+
+        - name: USER_DEPARTMENT_KEY
+          valueFrom:
+            configMapKeyRef: 
+              name: k8s-config
+              key: user.department
+
+        - name: USER_ACCOUNTBALANCE_KEY
+          valueFrom:
+            secretKeyRef: 
+              name: k8s-secret
+              key: user.accountBalance
+
+        - name: USER_PASSWORD_KEY
+          valueFrom:
+            secretKeyRef: 
+              name: k8s-secret
+              key: user.password
