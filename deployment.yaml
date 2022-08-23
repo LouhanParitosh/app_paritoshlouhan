@@ -31,8 +31,21 @@ spec:
             configMapKeyRef: 
               name: k8s-config
               key: user.name
+
         - name: USER_DEPARTMENT_KEY
           valueFrom:
             configMapKeyRef: 
               name: k8s-config
               key: user.department
+
+        - name: USER_ACCOUNTBALANCE_KEY
+          valueFrom:
+            secretKeyRef: 
+              name: k8s-secret
+              key: user.accountBalance
+
+        - name: USER_PASSWORD_KEY
+          valueFrom:
+            secretKeyRef: 
+              name: k8s-secret
+              key: user.password
