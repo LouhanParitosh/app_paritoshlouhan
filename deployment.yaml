@@ -1,23 +1,27 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
- name: nginx-k8s-deployment
+ name: nginx-k8s-deployment-paritoshlouhan
+ labels: 
+  app: dotnet-app
 spec:
  strategy:
   type: Recreate
  replicas: 4
  selector:
    matchLabels:
-    app: nginx-k8s-deployment-app
+    app: dotnet-app
  template:
    metadata:
-    name: nginx-k8s-pod
     labels:
-     app: nginx-k8s-deployment-app
+     app: dotnet-app
    spec:
      containers:
-     - name: nginx-k8s-container
-       image: paritoshlouhan/i-paritoshlouhan-master:i-paritoshlouhan-master
-       # Just sleep forever
-       command: [ "sleep" ]
-       args: [ "infinity" ]
+     - name: dotnet-app
+       image: paritoshlouhan/test2:jhooq-docker-demo
+       imagePullPolicy: Always
+       ports:
+        - name: http
+          containerPort: 80
+        - name: https
+          containerPort: 443
