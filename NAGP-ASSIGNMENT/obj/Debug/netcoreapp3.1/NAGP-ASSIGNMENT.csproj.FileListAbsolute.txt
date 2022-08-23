@@ -47,7 +47,6 @@ D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\b
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.dll
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
-D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.AssemblyReference.cache
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfoInputs.cache
 D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfo.cs
