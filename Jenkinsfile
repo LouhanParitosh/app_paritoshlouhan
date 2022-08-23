@@ -10,7 +10,7 @@ pipeline {
     stage('Nuget Restore') {
 
       steps {
-        bat "dotnet restore NAGP-ASSIGNMENT.sln"
+        bat "dotnet restore App\\NAGP-ASSIGNMENT.sln"
         echo "**************Nuget Restore started**************"
       }
     }
