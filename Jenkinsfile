@@ -11,6 +11,7 @@ pipeline {
 
       steps {
         bat "dotnet restore NAGP-ASSIGNMENT.sln"
+        echo "**************Nuget Restore started**************"
       }
     }
 
@@ -21,6 +22,7 @@ pipeline {
       steps {
         withSonarQubeEnv('Test_Sonar') {
           bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll begin /k:\"sonar-paritoshlouhan\""
+          echo "**************SonarQube Analysis started**************"
 
         }
       }
@@ -29,8 +31,8 @@ pipeline {
     stage('Code Build') {
 
       steps {
-        bat "kubectl get nodes"
         bat "dotnet build"
+        echo "**************Code build completed**************"
       }
     }
 
@@ -41,6 +43,7 @@ pipeline {
 
       steps {
         bat "dotnet test -l:trx;LogFileName=file.xml"
+        echo "**************Test Execution completed**************"
       }
     }
 
@@ -51,6 +54,7 @@ pipeline {
 
       steps {
         bat "dotnet publish -c Release -o out"
+        echo "**************Code Published**************"
       }
     }
 
@@ -62,6 +66,7 @@ pipeline {
       steps {
         withSonarQubeEnv('Test_Sonar') {
           bat "dotnet ${scannerHome}\\SonarScanner.MSBuild.dll end"
+          echo "**************Sonar Analysis stopped. Please visit localhost:9000 to see results**************"
         }
       }
     }
@@ -69,9 +74,17 @@ pipeline {
     stage('Kubernetes deployment') {
 
       steps {
+        echo "**************Available nodes before deployment**************"
         bat "kubectl get nodes"
+
+        bat "kubectl apply -f configMap.yaml"
+        echo "**************ConfigMap deployed**************"
+
         bat "kubectl apply -f deployment.yaml"
+        echo "**************Deployment completed!**************"
+
         bat "kubectl apply -f lb-service.yaml"
+        echo "**************Load balancer Service Initiated**************"
         
       }
     }
