@@ -1,0 +1,7 @@
+apiVersion: v1
+data: 
+  user.name: paritosh 
+  user.department: engineering
+kind: ConfigMap
+metadata: 
+  name: "k8s-config"

@@ -25,3 +25,14 @@ spec:
           containerPort: 80
         - name: https
           containerPort: 443
+       env: 
+        - name: USER_NAME_KEY
+          valueFrom:
+            configMapKeyRef: 
+              name: k8s-config
+              key: user.name
+        - name: USER_DEPARTMENT_KEY
+          valueFrom:
+            configMapKeyRef: 
+              name: k8s-config
+              key: user.department
