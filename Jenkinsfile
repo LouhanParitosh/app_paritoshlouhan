@@ -76,7 +76,7 @@ pipeline {
       steps {
         echo "**************Available nodes before deployment**************"
         bat "kubectl get nodes"
-        
+
         bat "kubectl apply -f secret.yaml"
         echo "**************Secret deployed**************"
 
@@ -88,7 +88,7 @@ pipeline {
 
         bat "kubectl apply -f lb-service.yaml"
         echo "**************Load balancer Service Initiated**************"
-        
+
       }
     }
 
