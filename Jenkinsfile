@@ -77,13 +77,13 @@ pipeline {
         echo "**************Available nodes before deployment**************"
         bat "kubectl get nodes"
 
-        bat "kubectl apply -f 'k8 Yaml files\configMap.yaml'"
+        bat "kubectl apply -f 'k8 Yaml files/configMap.yaml'"
         echo "**************ConfigMap deployed**************"
 
-        bat "kubectl apply -f 'k8 Yaml files\deployment.yaml'"
+        bat "kubectl apply -f 'k8 Yaml files/deployment.yaml'"
         echo "**************Deployment completed!**************"
 
-        bat "kubectl apply -f 'k8 Yaml files\lb-service.yaml'"
+        bat "kubectl apply -f 'k8 Yaml files/lb-service.yaml'"
         echo "**************Load balancer Service Initiated**************"
         
       }
