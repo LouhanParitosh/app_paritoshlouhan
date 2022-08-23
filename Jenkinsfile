@@ -76,6 +76,9 @@ pipeline {
       steps {
         echo "**************Available nodes before deployment**************"
         bat "kubectl get nodes"
+        
+        bat "kubectl apply -f secret.yaml"
+        echo "**************Secret deployed**************"
 
         bat "kubectl apply -f configMap.yaml"
         echo "**************ConfigMap deployed**************"
