@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAGP-ASSIGNMENT", "NAGP-ASSIGNMENT\NAGP-ASSIGNMENT.csproj", "{24E30C1B-5E39-44DD-854A-5FC99AC44582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAGP-ASSIGNMENT.TEST", "NAGP-ASSIGNMENT.TEST\NAGP-ASSIGNMENT.TEST.csproj", "{1F42543C-FF9C-4B73-9B7F-7D3DDBF69042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E30C1B-5E39-44DD-854A-5FC99AC44582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E30C1B-5E39-44DD-854A-5FC99AC44582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E30C1B-5E39-44DD-854A-5FC99AC44582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E30C1B-5E39-44DD-854A-5FC99AC44582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F42543C-FF9C-4B73-9B7F-7D3DDBF69042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F42543C-FF9C-4B73-9B7F-7D3DDBF69042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F42543C-FF9C-4B73-9B7F-7D3DDBF69042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F42543C-FF9C-4B73-9B7F-7D3DDBF69042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CA83F5-BC02-4823-BD2F-85E35F2BA3F5}
+	EndGlobalSection
+EndGlobal

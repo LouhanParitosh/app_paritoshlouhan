@@ -1,0 +1,75 @@
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.exe
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.deps.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.dll
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfo.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorAssemblyInfo.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorAssemblyInfo.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\staticwebassets\NAGP-ASSIGNMENT.StaticWebAssets.Manifest.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\staticwebassets\NAGP-ASSIGNMENT.StaticWebAssets.xml
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\scopedcss\bundle\NAGP-ASSIGNMENT.styles.css
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TagHelpers.input.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TagHelpers.output.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorCoreGenerate.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorTargetAssemblyInfo.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorTargetAssemblyInfo.cs
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.genruntimeconfig.cache
+C:\Users\paritoshlouhan\source\repos\NAGP-ASSIGNMENT\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.CopyComplete
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.exe
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.deps.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.runtimeconfig.dev.json
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\bin\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfoInputs.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.AssemblyInfo.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.CoreCompileInputs.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.MvcApplicationPartsAssemblyInfo.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorAssemblyInfo.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorAssemblyInfo.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\staticwebassets\NAGP-ASSIGNMENT.StaticWebAssets.Manifest.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\staticwebassets\NAGP-ASSIGNMENT.StaticWebAssets.xml
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\scopedcss\bundle\NAGP-ASSIGNMENT.styles.css
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TagHelpers.input.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.TagHelpers.output.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorCoreGenerate.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorTargetAssemblyInfo.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.RazorTargetAssemblyInfo.cs
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.Views.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.dll
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.pdb
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.genruntimeconfig.cache
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.CopyComplete
+D:\NAGP\Assignment on Jenkins\Solution\nagp-assignment-jenkins\NAGP-ASSIGNMENT\obj\Debug\netcoreapp3.1\NAGP-ASSIGNMENT.csproj.AssemblyReference.cache
