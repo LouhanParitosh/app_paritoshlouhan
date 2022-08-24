@@ -77,17 +77,8 @@ pipeline {
         echo "**************Available nodes before deployment**************"
         bat "kubectl get nodes"
 
-        bat "kubectl apply -f secret.yaml"
-        echo "**************Secret deployed**************"
-
-        bat "kubectl apply -f configMap.yaml"
-        echo "**************ConfigMap deployed**************"
-
-        bat "kubectl apply -f deployment.yaml"
-        echo "**************Deployment completed!**************"
-
-        bat "kubectl apply -f lb-service.yaml"
-        echo "**************Load balancer Service Initiated**************"
+        echo "**************All deployment started**************"
+        bat "kubectl apply -f deployment and service.yaml"
 
       }
     }
