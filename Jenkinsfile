@@ -78,7 +78,7 @@ pipeline {
         bat "kubectl get nodes"
 
         echo "**************All deployment started**************"
-        bat "kubectl apply -f deployment and service.yaml"
+        bat "kubectl apply -f 'deployment and service.yaml'"
 
       }
     }
