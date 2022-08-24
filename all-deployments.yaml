@@ -1,0 +1,111 @@
+# this section is creating namespace of name kubernetes-cluster-paritoshlouhan
+# this namespace will be used in following yaml files.
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: kubernetes-cluster-paritoshlouhan
+
+---
+
+# this is configMap yaml.
+# it is containing two environment variables i.e. name and department
+apiVersion: v1
+data: 
+  user.name: paritosh 
+  user.department: engineering
+kind: ConfigMap
+metadata: 
+  name: "k8s-config"
+  namespace: kubernetes-cluster-paritoshlouhan
+
+---
+
+# this is secret yaml.
+# it is containing two secret variables i.e. name and department
+apiVersion: v1
+data: 
+  user.bankAccountUsername: YWRtaW4= 
+  user.password: c0NhbGVpbzEyMw==
+kind: Secret
+metadata: 
+  name: "k8s-secret"
+  namespace: kubernetes-cluster-paritoshlouhan
+
+---
+
+# this is deployment yaml file.
+# it has strategy type Recreate
+# it is a replicaset of 4 pods.
+# it will apply the docker image paritoshlouhan/i-paritoshlouhan-develop:latest
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: nginx-k8s-deployment-paritoshlouhan
+ namespace: kubernetes-cluster-paritoshlouhan
+ labels: 
+  app: dotnet-app
+spec:
+ strategy:
+  type: Recreate
+ replicas: 4
+ selector:
+   matchLabels:
+    app: dotnet-app
+ template:
+   metadata:
+    labels:
+     app: dotnet-app
+   spec:
+     containers:
+     - name: dotnet-app
+       image: paritoshlouhan/i-paritoshlouhan-master:latest
+       imagePullPolicy: Always
+       ports:
+        - name: http
+          containerPort: 80
+        - name: https
+          containerPort: 443
+       env: 
+        - name: USER_NAME_KEY
+          valueFrom:
+            configMapKeyRef: 
+              name: k8s-config
+              key: user.name
+
+        - name: USER_DEPARTMENT_KEY
+          valueFrom:
+            configMapKeyRef: 
+              name: k8s-config
+              key: user.department
+
+        - name: USER_BANKACCOUNTUSERNAME_KEY
+          valueFrom:
+            secretKeyRef: 
+              name: k8s-secret
+              key: user.bankAccountUsername
+
+        - name: USER_PASSWORD_KEY
+          valueFrom:
+            secretKeyRef: 
+              name: k8s-secret
+              key: user.password
+
+---
+
+# this is loadbalancer service.
+# it has two ports mapped with web application
+apiVersion: v1
+kind: Service
+metadata:
+ name: nginx-lb-k8s-service-paritoshlouhan
+ namespace: kubernetes-cluster-paritoshlouhan
+ labels: 
+  app: dotnet-app-lb
+spec:
+ type: LoadBalancer
+ ports:
+  - name: http
+    port: 80
+    targetPort: 5000
+ selector:
+  app: dotnet-app
